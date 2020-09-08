@@ -1,20 +1,20 @@
-Country,Value
-art,122
-business,393
-chemistry,1621
-computer science,3992
-economics,2679
-engineering,934
-environmental science,312
-geography,1562
-geology,88
-history,46
-mathematics,3228
-materials science,158
-philosophy,372
-physics,312
-political science,2729
-sociology,830
-biology,31271
-medicine,71188
-psychology,4629
+Field,Author,Paper
+art,122,32
+business,393,90
+chemistry,1621,237
+computer science,3992,827
+economics,2679,603
+engineering,934,156
+environmental science,312,60
+geography,1562,310
+geology,88,22
+history,46,25
+mathematics,3228,633
+materials science,158,30
+philosophy,372,84
+physics,312,87
+political science,2729,601
+sociology,830,190
+biology,31271,4974
+medicine,71188,11173
+psychology,4629,853
