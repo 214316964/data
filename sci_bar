@@ -1,20 +1,20 @@
 Field,Author,Paper
-art,122,32
-business,393,90
-chemistry,1621,237
-computer science,3992,827
-economics,2679,603
-engineering,934,156
-environmental science,312,60
-geography,1562,310
-geology,88,22
-history,46,25
-mathematics,3228,633
-materials science,158,30
-philosophy,372,84
-physics,312,87
-political science,2729,601
-sociology,830,190
-biology,31271,4974
-medicine,71188,11173
-psychology,4629,853
+Art,122,32
+Business,393,90
+Chemistry,1621,237
+Computer Science,3992,827
+Economics,2679,603
+Engineering,934,156
+Environmental Science,312,60
+Geography,1562,310
+Geology,88,22
+History,46,25
+Mathematics,3228,633
+Materials Science,158,30
+Philosophy,372,84
+Physics,312,87
+Political Science,2729,601
+Sociology,830,190
+Biology,31271,4974
+Medicine,71188,11173
+Psychology,4629,853
